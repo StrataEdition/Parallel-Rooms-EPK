@@ -23,6 +23,7 @@ The compositions were devised in a process of back and forth between recording i
 
 <br>
 ## ■ Album Cover
+<br>
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
 <br>
   
@@ -59,7 +60,6 @@ His works have been shown and played at Arebyte, Barbican Centre, Cafe Oto, Cors
 
 For all enquiries, please contact: **strata.edition@gmail.com**
 
-<br>
 <br>
 
 
