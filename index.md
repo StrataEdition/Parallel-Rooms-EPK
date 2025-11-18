@@ -31,14 +31,10 @@ After a critically acclaimed debut release featured in [The Quietus](https://the
 Digital + Cassette (*70-copies limited edition brown Cassettes in U Covers*).
 <br>
 
-<br>
-<img src="Cd_Memory Recoil.jpg" alt="Memory Recoil CD" class="centered-image">
-<br>
-
 
 ## ■ Tracklist
-Room One (18’37”)
-Room Two (17’24”)
+Room One [18’37”]
+Room Two [17’24”]
 
 <br>
   
