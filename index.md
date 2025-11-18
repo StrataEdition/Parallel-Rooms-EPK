@@ -17,7 +17,8 @@ Streaming & Download link for *Parallel Rooms* on STRATA, for radio / press / pe
 
 ---
 <br>
-  
+
+
 After a critically acclaimed debut release featured in [The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/), and selected as a [NINA Staff Pick](https://www.ninaprotocol.com/articles/partial-defrag-scandisk), Partial Defrag returns to STRATA with *Memory Recoil*. Shifting from swirling sound design to teetering piano motifs, Memory Recoil ventures deeper into the heart of the hard drive, where the haunted remnants of compressed data are mechanically recombined into uncanny, heartfelt confabulations.
 
 <br>
@@ -55,7 +56,8 @@ Mastering: Noel Summerville
 <br>
   
 ## ■ Artist Bio
-*"In the empty space of a semi-compressed hard drive"*.
+Pietro Bardini is an italian London-based composer and artist. He works accross sound composition, audio-visual performances and installations. 
+His works have been shown and played at Arebyte, Barbican Centre, Cafe Oto, Corsica Studios, The White Hotel, The Horse Hospital, IKLECTIK, Spanners, Rio Cinema Dalston and MK Gallery. Since 2024 he co-runs the label and event series STRATA and releases music under the alias Partial Defrag, as previsouly covered on The Quietus and NINA Protocol Staff Pick.
 
 <br>
 
