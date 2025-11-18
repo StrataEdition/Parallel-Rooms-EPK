@@ -12,7 +12,7 @@ Streaming & Download link for *Parallel Rooms* on STRATA, for radio / press / pe
 [Private Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/16noqMvtTAGF2rTSexMFTnEJdmYyMf9vQ?usp=sharing)
 
 <br>
-### Release Date: 20.02.26 (TB)
+### Release Date: 20.02.26 (TBC)
 <br>
 
 ---
@@ -24,20 +24,17 @@ The compositions were devised in a process of back and forth between recording i
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
 <br>
 
----
 <br> 
 
 ## ■ Release Format
 Digital + Cassette (*70-copies limited edition brown Cassettes with outer O-Cards*).
 <br>
 <img src="PR_CassetteCover.jpg" alt="Cassette Cover" class="centered-image">
----
 
 ## ■ Tracklist
 Room One [18’37”]
 Room Two [17’24”]
 
----
 ## ■ Credits
 Composed and Produced: Pietro Bardini
 
@@ -51,8 +48,6 @@ Additional Arrangments for Room One: Tim Pottier
 
 Additional Mixing: Sean Woodford
 Mastering: Noel Summerville
-
----
   
 ## ■ Artist Bio
 Pietro Bardini is an italian London-based composer and artist. He works accross sound composition, audio-visual performances and installations. 
