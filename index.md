@@ -31,6 +31,7 @@ After a critically acclaimed debut release featured in [The Quietus](https://the
 ## ■ Release Format
 Digital + Cassette (*70-copies limited edition brown Cassettes in U Covers*).
 <br>
+<img src="PR_CassetteCover.jpg" alt="Cassette Cover" class="centered-image">
 
 
 ## ■ Tracklist
@@ -57,7 +58,7 @@ Mastering: Noel Summerville
   
 ## ■ Artist Bio
 Pietro Bardini is an italian London-based composer and artist. He works accross sound composition, audio-visual performances and installations. 
-His works have been shown and played at Arebyte, Barbican Centre, Cafe Oto, Corsica Studios, The White Hotel, The Horse Hospital, IKLECTIK, Spanners, Rio Cinema Dalston and MK Gallery. Since 2024 he co-runs the label and event series STRATA and releases music under the alias Partial Defrag, as previsouly covered on The Quietus and NINA Protocol Staff Pick.
+His works have been shown and played at Arebyte, Barbican Centre, Cafe Oto, Corsica Studios, The White Hotel, The Horse Hospital, IKLECTIK, Spanners, Royal College of Art, Rio Cinema Dalston and MK Gallery. Since 2024 he co-runs the label and event series STRATA and releases music under the alias Partial Defrag, as previsouly covered on The Quietus and NINA Protocol Staff Pick.
 
 <br>
 
