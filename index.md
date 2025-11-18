@@ -17,17 +17,15 @@ Streaming & Download link for *Parallel Rooms* on STRATA, for radio / press / pe
 
 ---
 <br>
-## ■ Abput
+## ■ About
 Parallel Rooms is a two-tracks piece composed over 2024/25 for strings and electronics, composed with a string ensamble of musicians from the london free improvisation scene.
 The compositions were devised in a process of back and forth between recording improvisation sessions and improvising on top of the manipulated sessions. These were layered and...
 
 <br>
-## ■ Cover
+## ■ Album Cover
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
 <br>
-
-<br> 
-
+  
 ## ■ Release Format
 Digital + Cassette (*70-copies limited edition brown Cassettes with outer O-Cards*).
 <br>
