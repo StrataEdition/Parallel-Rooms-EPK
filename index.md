@@ -1,18 +1,18 @@
 ---
-title: Memory Recoil EPK
+title: Parallel Rooms EPK
 layout: home
 ---
 
 
+# Pietro Bardini: Parallel Rooms (DL + Cassette)
 
-# Partial Defrag: Memory Recoil EP (DL + CD)
-
-Streaming & Download link for *Memory Recoil* on STRATA, for radio / press / personal enjoyment:
+Streaming & Download link for *Parallel Rooms* on STRATA, for radio / press / personal enjoyment:
 
 [Private Streaming Link (Soundcloud)](https://on.soundcloud.com/hJo3tjbgKlbsYyC57F)
 [Private Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/16noqMvtTAGF2rTSexMFTnEJdmYyMf9vQ?usp=sharing)
+
 <br>
-### Release Date: 4.12.2025 (Bandcamp, NINA Protocol)
+### Release Date: 20.02.26 (TB)
 <br>
 
 ---
@@ -28,7 +28,7 @@ After a critically acclaimed debut release featured in [The Quietus](https://the
 <br> 
 
 ## ■ Release Format
-Digital + CD (*30-copies limited edition CDs in blue flip-cases with vinyl sticker cover, packaged in antistatic bags*).
+Digital + Cassette (*70-copies limited edition brown Cassettes in U Covers*).
 <br>
 
 <br>
@@ -37,17 +37,25 @@ Digital + CD (*30-copies limited edition CDs in blue flip-cases with vinyl stick
 
 
 ## ■ Tracklist
-1. Optical Eraser
-2. Non-Recoverable Read Errors
-3. Bad Sectors
-4. Memory Recoil
+Room One (18’37”)
+Room Two (17’24”)
 
 <br>
   
 ## ■ Credits
-Written and Produced: **Partial Defrag**
-Mixing & Mastering: **Pietro Bardini**
-Cover Design: **Partial Defrag**
+Composed/Produced: Pietro Bardini
+
+Violin: Angharad Davies
+Viola: Charis Morgan / Ariane Alexander
+Double Bass: Caius Williams
+Cello: Isidora Edwards
+Piano: Pietro Bardini
+
+Additional Arrangments for Room One: Tim Pottier
+
+Additional Mixing: Sean Woodford
+Mastering: Noel Summerville
+
 <br>
   
 ## ■ Artist Bio
