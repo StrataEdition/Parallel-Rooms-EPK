@@ -17,9 +17,8 @@ Streaming & Download link for *Parallel Rooms* on STRATA, for radio / press / pe
 
 ---
 <br>
-
-
-After a critically acclaimed debut release featured in [The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/), and selected as a [NINA Staff Pick](https://www.ninaprotocol.com/articles/partial-defrag-scandisk), Partial Defrag returns to STRATA with *Memory Recoil*. Shifting from swirling sound design to teetering piano motifs, Memory Recoil ventures deeper into the heart of the hard drive, where the haunted remnants of compressed data are mechanically recombined into uncanny, heartfelt confabulations.
+Parallel Rooms is a two-tracks piece composed over 2024/25 for strings and electronics, composed with a string ensamble of musicians from the london free improvisation scene.
+The compositions were devised in a process of back and forth between recording improvisation sessions and improvising on top of the manipulated sessions. These were layered and...
 
 <br>
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
@@ -29,19 +28,18 @@ After a critically acclaimed debut release featured in [The Quietus](https://the
 <br> 
 
 ## ■ Release Format
-Digital + Cassette (*70-copies limited edition brown Cassettes in U Covers*).
+Digital + Cassette (*70-copies limited edition brown Cassettes with outer O-Cards*).
 <br>
 <img src="PR_CassetteCover.jpg" alt="Cassette Cover" class="centered-image">
-
+---
 
 ## ■ Tracklist
 Room One [18’37”]
 Room Two [17’24”]
 
-<br>
-  
+---
 ## ■ Credits
-Composed/Produced: Pietro Bardini
+Composed and Produced: Pietro Bardini
 
 Violin: Angharad Davies
 Viola: Charis Morgan / Ariane Alexander
@@ -54,7 +52,7 @@ Additional Arrangments for Room One: Tim Pottier
 Additional Mixing: Sean Woodford
 Mastering: Noel Summerville
 
-<br>
+---
   
 ## ■ Artist Bio
 Pietro Bardini is an italian London-based composer and artist. He works accross sound composition, audio-visual performances and installations. 
