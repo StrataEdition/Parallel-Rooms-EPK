@@ -17,10 +17,12 @@ Streaming & Download link for *Parallel Rooms* on STRATA, for radio / press / pe
 
 ---
 <br>
+## ■ Abput
 Parallel Rooms is a two-tracks piece composed over 2024/25 for strings and electronics, composed with a string ensamble of musicians from the london free improvisation scene.
 The compositions were devised in a process of back and forth between recording improvisation sessions and improvising on top of the manipulated sessions. These were layered and...
 
 <br>
+## ■ Cover
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
 <br>
 
@@ -52,6 +54,8 @@ Mastering: Noel Summerville
 ## ■ Artist Bio
 Pietro Bardini is an italian London-based composer and artist. He works accross sound composition, audio-visual performances and installations. 
 His works have been shown and played at Arebyte, Barbican Centre, Cafe Oto, Corsica Studios, The White Hotel, The Horse Hospital, IKLECTIK, Spanners, Royal College of Art, Rio Cinema Dalston and MK Gallery. Since 2024 he co-runs the label and event series STRATA and releases music under the alias Partial Defrag, as previsouly covered on The Quietus and NINA Protocol Staff Pick.
+<br>
+<img src="2_Pietro Bardini_Yvetta Sedláková.jpg" alt="Pietro Bardini Artist Profile" class="centered-image">
 
 <br>
 
