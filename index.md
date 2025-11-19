@@ -11,17 +11,14 @@ Streaming & Download link for *Parallel Rooms* on **STRATA**, for radio / press 
 [Private Streaming Link (Soundcloud)](https://on.soundcloud.com/hJo3tjbgKlbsYyC57F)
 [Private Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/16noqMvtTAGF2rTSexMFTnEJdmYyMf9vQ?usp=sharing)
 
-<br>
 ### Release Date: 20.02.26 (TBC)
-<br>
 
 ---
-<br>
+
 ## About
 Parallel Rooms is a two-tracks piece composed over 2024/25 for strings and electronics, composed with a string ensamble of musicians from the london free improvisation scene.
 The compositions were devised in a process of back and forth between recording improvisation sessions and improvising on top of the manipulated sessions. These were layered and...
 
-<br>
 ## Album Cover
 <br>
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
