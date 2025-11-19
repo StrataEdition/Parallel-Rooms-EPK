@@ -53,8 +53,7 @@ Mastering: *Noel Summerville*
 Thanks to *Maxwell Sterling* for the feedback and support.
   
 ## Artist Bio
-Pietro Bardini is an italian London-based composer and artist. He works accross sound composition, audio-visual performances and installations. 
-His works have been shown and played at Arebyte, Barbican Centre, Cafe Oto, Corsica Studios, The White Hotel, The Horse Hospital, IKLECTIK, Spanners, Royal College of Art, Rio Cinema Dalston and MK Gallery. Since 2024 he co-runs the label and event series STRATA and releases music under the alias Partial Defrag, as previsouly covered on The Quietus and NINA Protocol Staff Pick.
+Pietro Bardini is an Italian, London-based composer and artist. He works across sound composition, audio-visual performances, and installations. His works have been shown and played at Arebyte, Barbican Centre, Café OTO, Corsica Studios, The White Hotel, The Horse Hospital, IKLECTIK, Spanners, Royal College of Art, Rio Cinema Dalston, and MK Gallery. Since 2024, he co-runs the label and event series STRATA and releases music under the alias Partial Defrag, as previously covered by The Quietus and as a NINA Protocol Staff Pick.
 <br>
 <img src="2_Pietro Bardini_Yvetta Sedláková.jpg" alt="Pietro Bardini Artist Profile" class="centered-image">
 
