@@ -64,6 +64,10 @@ h3 {
     text-align: center; /* This will center only h3 */
 }
 
+.center-text {
+  text-align: center;
+}
+
 p, ul, ol { margin: 0px;  color: var(--text-color); }
 a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--background-color); background-color: var(--base-color); }
