@@ -28,9 +28,9 @@ h1, h2, h3, h4, h5, h6, .title, .page-title, .site-title {
 }
 
 hr {
-  border: none;
-  height: 1px;
-  background-color: var(--text-color); /* same as title color */
+  border: 0;
+  border-top: 1px dashed var(--text-color);
+  height: 0;
   margin: 24px 0;
 }
 
