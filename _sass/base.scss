@@ -38,18 +38,14 @@ h1, h2, h3, h4, h5, h6, .title, .page-title, .site-title {
   font-weight: 400;
 }
 
-/* Main title: italic + bold + nicer spacing */
+/* Main title: italic + bold */
 h1 {
   font-size: $title-font-size;
-  margin: 0;
-  margin-top: $space-7;
-  margin-bottom: $space-3;
+  margin: 0px;
+  margin-top: 22px;
   color: var(--text-color);
   font-style: italic;   // keep italic
-  font-weight: 700;     // bold
-  line-height: 1.15;
-  letter-spacing: 0.01em;
-  text-align: center;
+  font-weight: 700;     // make bold
 }
 
 /* Smaller heading adjustments and rhythm */
