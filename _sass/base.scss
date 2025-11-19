@@ -27,6 +27,13 @@ h1, h2, h3, h4, h5, h6, .title, .page-title, .site-title {
   font-weight: 400;
 }
 
+hr {
+  border: none;
+  height: 1px;
+  background-color: var(--text-color); /* same as title color */
+  margin: 24px 0;
+}
+
 /* Keep h1 size override */
 /* Main title: italic + bold */
 h1 {
