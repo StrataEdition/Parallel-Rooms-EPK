@@ -28,6 +28,9 @@ Room One and Two were performed separately: in March 2025 at Avalon Café and in
 <br>
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
 
+[Full Resolution Cover (PNG)](https://drive.google.com/file/d/1tHBbNjZenbTgDIWCNxlwhs__15LCJywI/view?usp=sharing)
+{: .center-text}
+
 ---
 
 ## Release Format
