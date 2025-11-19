@@ -60,6 +60,9 @@ Additional Arrangments for Room One: **Tim Pottier**
 Additional Mixing: **Sean Woodford**
 Mastering: **Noel Summerville**
 
+Album cover models: **Pietro Bardini**
+Album cover picture: **Sotiris Gonis / Pietro Bardini**
+
 Thanks to **Maxwell Sterling** for the feedback and support
 
 ---
