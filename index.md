@@ -6,9 +6,9 @@ layout: home
 
 # Pietro Bardini: Parallel Rooms (DL + Cassette)
 
-Streaming & Download link for *Parallel Rooms* on **STRATA**, for radio / press / personal enjoyment:
+Streaming & Download link for *Parallel Rooms* on **STRATA**, for press & personal enjoyment:
 
-[Private Streaming Link (Soundcloud)](https://on.soundcloud.com/hJo3tjbgKlbsYyC57F)
+[Private Streaming Link (Soundcloud)](https://on.soundcloud.com/H50E7WqAVwi2LTlcQp)
 [Private Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/15klp8l0k-TZLjLUShbI602ow3husWpFv?usp=sharing)
 
 ### Release Date: 20.02.26 (TBC)
@@ -20,7 +20,7 @@ Parallel Rooms is a two‑track composition recorded in 2024–25 with string pl
 
 Tying the work together was two miniature rooms: Room One, dark mahogany with an orange glow and an empty chair; Room Two, a stained‑glass window, fleur‑de‑lis wallpaper, and a small rabbit figure. These props were used during the recording sessions to establish a central atmosphere for the work. The idea of two parallel rooms also shaped the structure of the composition; the pieces mirror each other harmonically with a leitmotif joining them together.
 
-Room One and Two were performed separately: in March 2025 at Avalon Café and in September 2025 at Spanners within Horsehair, a series curated by Pietro focused on experimental string music.
+Room One and Two were performed separately: in March 2025 at Avalon Café and in September 2025 at Spanners as part of Horsehair, an event series curated by Pietro focused on experimental string music.
 
 ---
 
@@ -73,6 +73,9 @@ Pietro Bardini is an Italian, London-based composer and artist. He works across 
 <img src="2_Pietro Bardini_Yvetta Sedláková.jpg" alt="Pietro Bardini Artist Profile" class="centered-image">
 
 <br>
+
+[Social Media Handle (IG)](https://www.instagram.com/pietrobardini/?hl=en)
+{: .center-text}
 
 ---
 
