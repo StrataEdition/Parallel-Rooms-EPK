@@ -61,7 +61,14 @@ p, ul, ol { margin: 0px;  color: var(--text-color); }
 a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--background-color); background-color: var(--base-color); }
 @media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
+hr {
+  border: 0;
+  border-top: var(--border);
+  margin-block: $space-6;
 
+  /* Match heading/titles color */
+  border-top-color: var(--text-color); // use var(--heading-color) if you define one
+}
 .centered-image {
     display: block;
     margin-left: auto;
