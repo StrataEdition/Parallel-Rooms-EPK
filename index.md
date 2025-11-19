@@ -31,6 +31,8 @@ The two rooms were performed separately: in March 2025 at Avalon Café and in Se
 Digital + Cassette (*70-copies limited edition brown Cassettes with outer O-Cards*).
 <br>
 <img src="PR_CassetteCover.jpg" alt="Cassette Cover" class="centered-image">
+<img src="PR_Cassettes.jpg" alt="Parallel Rooms Cassettes" class="centered-image">
+
 
 ## Tracklist
 1. Side A: Room One [18’44”]
