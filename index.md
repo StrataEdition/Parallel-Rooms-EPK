@@ -6,7 +6,7 @@ layout: home
 
 # Pietro Bardini: Parallel Rooms (DL + Cassette)
 
-Streaming & Download link for *Parallel Rooms* on STRATA, for radio / press / personal enjoyment:
+Streaming & Download link for *Parallel Rooms* on **STRATA**, for radio / press / personal enjoyment:
 
 [Private Streaming Link (Soundcloud)](https://on.soundcloud.com/hJo3tjbgKlbsYyC57F)
 [Private Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/16noqMvtTAGF2rTSexMFTnEJdmYyMf9vQ?usp=sharing)
@@ -17,38 +17,38 @@ Streaming & Download link for *Parallel Rooms* on STRATA, for radio / press / pe
 
 ---
 <br>
-## ■ About
+## About
 Parallel Rooms is a two-tracks piece composed over 2024/25 for strings and electronics, composed with a string ensamble of musicians from the london free improvisation scene.
 The compositions were devised in a process of back and forth between recording improvisation sessions and improvising on top of the manipulated sessions. These were layered and...
 
 <br>
-## ■ Album Cover
+## Album Cover
 <br>
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
 <br>
   
-## ■ Release Format
+## Release Format
 Digital + Cassette (*70-copies limited edition brown Cassettes with outer O-Cards*).
 <br>
 <img src="PR_CassetteCover.jpg" alt="Cassette Cover" class="centered-image">
 
-## ■ Tracklist
+## Tracklist
 Room One [18’37”]
 Room Two [17’24”]
 
-## ■ Credits
-Composed and Produced: Pietro Bardini
+## Credits
+Composed and Produced: *Pietro Bardini*
 
-Violin: Angharad Davies
-Viola: Charis Morgan / Ariane Alexander
-Double Bass: Caius Williams
-Cello: Isidora Edwards
-Piano: Pietro Bardini
+Violin: *Angharad Davies*
+Viola:*Charis Morgan / Ariane Alexander*
+Double Bass: *Caius Williams*
+Cello: *Isidora Edwards*
+Piano: *Pietro Bardini*
 
-Additional Arrangments for Room One: Tim Pottier
+Additional Arrangments for Room One: *Tim Pottier*
 
-Additional Mixing: Sean Woodford
-Mastering: Noel Summerville
+Additional Mixing: *Sean Woodford*
+Mastering: *Noel Summerville*
   
 ## ■ Artist Bio
 Pietro Bardini is an italian London-based composer and artist. He works accross sound composition, audio-visual performances and installations. 
