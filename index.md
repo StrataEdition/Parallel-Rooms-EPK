@@ -16,7 +16,11 @@ Streaming & Download link for *Parallel Rooms* on **STRATA**, for radio / press 
 ---
 
 ## About
-Parallel Rooms is a two-tracks piece for strings and electronics. This was composed over 2024/25 with an ensamble of musicians from the london free improvisation scene.The compositions were devised in a process of back and forth between recording improvisation sessions and improvising on top of the manipulated sessions. These were layered and...
+Parallel Rooms is a two‑track piece composed in 2024–25 with string players from London’s free‑improv scene. The pieces were written by recording guided improvisations under a set of simple rules and harmonic limits, editing and layering them, then re‑amping and improvising again over those takes. A central harmonic progression acted as both anchor and starting point.
+
+To tie the recordings together, there were two miniature rooms: Room One, dark mahogany with an orange glow and an empty chair; Room Two, a stained‑glass window, fleur‑de‑lis wallpaper, and a small rabbit figure. These props were used during the recordings to set the atmosphere for the pieces. The idea of two parallel rooms also shaped the structure of the composition; the two pieces mirror each other harmonically, and a dreamy leitmotif joins the rooms together.
+
+The two rooms were performed separately: in March 2025 at Avalon Café and in September 2025 at Spanners within Horsehair, a series curated by Pietro focused on experimental string music.
 
 ## Album Cover
 <br>
@@ -29,8 +33,8 @@ Digital + Cassette (*70-copies limited edition brown Cassettes with outer O-Card
 <img src="PR_CassetteCover.jpg" alt="Cassette Cover" class="centered-image">
 
 ## Tracklist
-Room One [18’37”]
-Room Two [17’24”]
+1. Side A: Room One [18’44”]
+2. Side B: Room Two [17’28”]
 
 ## Credits
 Composed and Produced: *Pietro Bardini*
