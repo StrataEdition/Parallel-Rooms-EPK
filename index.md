@@ -18,7 +18,7 @@ Streaming & Download link for *Parallel Rooms* on **STRATA**, for radio / press 
 ## About
 Parallel Rooms is a two‑track composition recorded in 2024–25 with string players from London’s free‑improvisation scene. The pieces came together by recording guided improvisations with a set of graphic movements and harmonic motifs, editing and layering them, then re‑amping and improvising again over those takes. The central harmonic progression of Room One acted as both the anchor and starting point.
 
-Tying the work together was two miniature rooms: Room One, dark mahogany with an orange glow and an empty chair; Room Two, a stained‑glass window, fleur‑de‑lis wallpaper, and a small rabbit figure. These props were used during the recording sessions to establish a central atmosphere for the work. The idea of parallel rooms also shaped the structure of the composition; the two pieces mirror each other harmonically with a leitmotif joining the rooms together.
+Tying the work together was two miniature rooms: Room One, dark mahogany with an orange glow and an empty chair; Room Two, a stained‑glass window, fleur‑de‑lis wallpaper, and a small rabbit figure. These props were used during the recording sessions to establish a central atmosphere for the work. The idea of two parallel rooms also shaped the structure of the composition; the pieces mirror each other harmonically with a leitmotif joining them together.
 
 Room One and Two were performed separately: in March 2025 at Avalon Café and in September 2025 at Spanners within Horsehair, a series curated by Pietro focused on experimental string music.
 
