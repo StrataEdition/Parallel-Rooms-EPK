@@ -14,47 +14,67 @@ $title-font-size:      16px !default;
 $mobile-font-size:     13px !default;
 $base-line-height:     1.5 !default;
 $container-width:      90% !default;
-$container-max-width:  600px !default;
+$container-max-width:  720px !default; // was 600px for a bit more breathing room
+
+// Spacing scale and readable line length
+$space-1: 4px;
+$space-2: 8px;
+$space-3: 12px;
+$space-4: 16px;
+$space-5: 24px;
+$space-6: 32px;
+$space-7: 48px;
+$measure: 65ch;
 
 /**
  * Global
  */
 body { background-color: var(--background-color);  margin: 0 auto;  padding: 0;  font-family: $base-font-family;  font-size: $base-font-size;  font-style: normal; color: var(--text-color);  text-align: left;  line-height: $base-line-height !important; }
 
+/* Titles stay Libre Caslon italic */
 h1, h2, h3, h4, h5, h6, .title, .page-title, .site-title {
   font-family: "Libre Caslon Text", "Libre Caslon", Georgia, serif;
   font-style: italic;
   font-weight: 400;
 }
 
-/* Keep h1 size override */
-/* Main title: italic + bold */
+/* Main title: italic + bold + nicer spacing */
 h1 {
   font-size: $title-font-size;
-  margin: 0px;
-  margin-top: 22px;
+  margin: 0;
+  margin-top: $space-7;
+  margin-bottom: $space-3;
   color: var(--text-color);
   font-style: italic;   // keep italic
-  font-weight: 700;     // make bold
+  font-weight: 700;     // bold
+  line-height: 1.15;
+  letter-spacing: 0.01em;
+  text-align: center;
 }
 
-/* Smaller heading adjustments — remove invalid font-style: bold (use font-weight) */
+/* Smaller heading adjustments and rhythm */
 h2, h4, h5 {
-    font-size: $base-font-size;
-    margin: 0px;
-    margin-top: 22px;
-    font-weight: bold;
-    color: var(--text-color);
+  font-size: $base-font-size;
+  margin: 0;
+  margin-top: $space-6;
+  margin-bottom: $space-2;
+  font-weight: bold;
+  color: var(--text-color);
+  line-height: 1.2;
+  letter-spacing: 0.01em;
 }
 
-/* Center only h3 */
+/* Center only h3, with consistent rhythm */
 h3 {
-    font-size: $base-font-size;
-    margin: 0px;
-    margin-top: 22px;
-    font-weight: bold;
-    color: var(--text-color);
-    text-align: center; /* This will center only h3 */
+  font-size: $base-font-size;
+  margin: 0;
+  margin-top: $space-6;
+  margin-bottom: $space-2;
+  font-weight: bold;
+  color: var(--text-color);
+  text-align: center;
+  line-height: 1.2;
+  letter-spacing: 0.01em;
 }
 
 p, ul, ol { margin: 0px;  color: var(--text-color); }
@@ -62,41 +82,21 @@ a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--background-color); background-color: var(--base-color); }
 @media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
 
-.centered-image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;  
-    max-width: $container-max-width;
-    height: auto;
-}
-
-.centered-logo {
-        display: block;
-
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;  
-    max-width: $container-max-width; 
-    height: auto;
-}
-
-.centered-vid {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;  
-    max-width: $container-max-width; 
-    height: auto;
-}
-
-
+/* Horizontal rule — used by --- in Markdown */
+hr { border: 0; border-top: var(--border); margin-block: $space-6; }
 
 /**
  * Layout
  */
 .container { width: $container-width;  max-width: $container-max-width;  margin-right: auto;  margin-left: auto; }
-p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; margin-bottom: 15px; }
+
+/* Optional: limit text width and auto-stack spacing without <br> */
+.prose { max-width: $measure; margin-inline: auto; }
+.stack > * + * { margin-top: $space-4; }
+
+/* Paragraph rhythm */
+p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; margin-bottom: $space-4; }
+
 footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px;  text-align: right; }
 header { margin-top: 25px;  margin-bottom: 10px; }
 header p { text-align: left;  margin: 0; }
