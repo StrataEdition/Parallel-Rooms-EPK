@@ -25,6 +25,7 @@ Room One and Two were performed separately: in March 2025 at Avalon Café and in
 ---
 
 ## Album Cover
+*Rooms design Pietro Bardini, photography Sotiris Gonis*
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
 
 ---
