@@ -22,8 +22,9 @@ Tying the work together was two miniature rooms: Room One, dark mahogany with an
 
 Room One and Two were performed separately: in March 2025 at Avalon Café and in September 2025 at Spanners within Horsehair, a series curated by Pietro focused on experimental string music.
 
+---
+
 ## Album Cover
-<br>
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
 <br>
 ## Release Format
@@ -31,6 +32,7 @@ Digital + Cassette (*50 limited edition brown Cassettes with outer O-Cards*).
 <img src="PR_CassetteCover.jpg" alt="Cassette Cover" class="centered-image">
 <img src="PR_Cassettes.jpg" alt="Parallel Rooms Cassettes" class="centered-image">
 
+---
 
 ## Tracklist
 1. Side A: Room One [18’44”]
@@ -51,17 +53,19 @@ Additional Mixing: *Sean Woodford*
 Mastering: *Noel Summerville*
 
 Thanks to *Maxwell Sterling* for the feedback and support.
-  
+
+---
+
 ## Artist Bio
 Pietro Bardini is an Italian, London-based composer and artist. He works across sound composition, audio-visual performances, and installations. His works have been shown and played at Arebyte, Barbican Centre, Café OTO, Corsica Studios, The White Hotel, The Horse Hospital, IKLECTIK, Spanners, Royal College of Art, Rio Cinema Dalston, and MK Gallery. Since 2024, he co-runs the label and event series STRATA and releases music under the alias Partial Defrag, as previously covered by The Quietus and as a NINA Protocol Staff Pick.
 <br>
 <img src="2_Pietro Bardini_Yvetta Sedláková.jpg" alt="Pietro Bardini Artist Profile" class="centered-image">
 
 <br>
+---
+
 
 For all enquiries, please contact: **strata.edition@gmail.com**
-
-<br>
 
 
 <img src="logo.png" alt="Strata Logo" class="centered-logo">
