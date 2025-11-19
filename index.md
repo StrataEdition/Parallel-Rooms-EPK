@@ -26,7 +26,9 @@ Room One and Two were performed separately: in March 2025 at Avalon Café and in
 
 ## Album Cover
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
-<br>
+
+---
+
 ## Release Format
 Digital + Cassette (*50 limited edition brown Cassettes with outer O-Cards*).
 <img src="PR_CassetteCover.jpg" alt="Cassette Cover" class="centered-image">
@@ -37,6 +39,8 @@ Digital + Cassette (*50 limited edition brown Cassettes with outer O-Cards*).
 ## Tracklist
 1. Side A: Room One [18’44”]
 2. Side B: Room Two [17’28”]
+
+---
 
 ## Credits
 Composed and Produced: *Pietro Bardini*
@@ -62,10 +66,10 @@ Pietro Bardini is an Italian, London-based composer and artist. He works across 
 <img src="2_Pietro Bardini_Yvetta Sedláková.jpg" alt="Pietro Bardini Artist Profile" class="centered-image">
 
 <br>
+
 ---
 
 
 For all enquiries, please contact: **strata.edition@gmail.com**
-
 
 <img src="logo.png" alt="Strata Logo" class="centered-logo">
