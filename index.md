@@ -16,8 +16,7 @@ Streaming & Download link for *Parallel Rooms* on **STRATA**, for radio / press 
 ---
 
 ## About
-Parallel Rooms is a two-tracks piece composed over 2024/25 for strings and electronics, composed with a string ensamble of musicians from the london free improvisation scene.
-The compositions were devised in a process of back and forth between recording improvisation sessions and improvising on top of the manipulated sessions. These were layered and...
+Parallel Rooms is a two-tracks piece for strings and electronics. This was composed over 2024/25 with an ensamble of musicians from the london free improvisation scene.The compositions were devised in a process of back and forth between recording improvisation sessions and improvising on top of the manipulated sessions. These were layered and...
 
 ## Album Cover
 <br>
@@ -46,6 +45,8 @@ Additional Arrangments for Room One: *Tim Pottier*
 
 Additional Mixing: *Sean Woodford*
 Mastering: *Noel Summerville*
+
+Thanks to *Maxwell Sterling* for the feedback and support.
   
 ## Artist Bio
 Pietro Bardini is an italian London-based composer and artist. He works accross sound composition, audio-visual performances and installations. 
