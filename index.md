@@ -43,20 +43,20 @@ Digital + Cassette (*50 limited edition brown Cassettes with outer O-Cards*).
 ---
 
 ## Credits
-Composed and Produced: *Pietro Bardini*
+Composed and Produced: **Pietro Bardini**
 
-Violin: *Angharad Davies*
-Double Bass: *Caius Williams*
-Cello: *Isidora Edwards*
-Viola: *Charis Morgan / Ariane Alexander*
-Piano: *Pietro Bardini*
+Violin: **Angharad Davies**
+Double Bass: **Caius Williams**
+Cello: **Isidora Edwards**
+Viola: **Charis Morgan / Ariane Alexander**
+Piano: **Pietro Bardini**
 
-Additional Arrangments for Room One: *Tim Pottier*
+Additional Arrangments for Room One: **Tim Pottier**
 
-Additional Mixing: *Sean Woodford*
-Mastering: *Noel Summerville*
+Additional Mixing: **Sean Woodford**
+Mastering: **Noel Summerville**
 
-Thanks to *Maxwell Sterling* for the feedback and support.
+Thanks to **Maxwell Sterling** for the feedback and support
 
 ---
 
@@ -70,6 +70,7 @@ Pietro Bardini is an Italian, London-based composer and artist. He works across 
 ---
 
 
-For all enquiries, please contact: **strata.edition@gmail.com** {: .center-text}
+For all enquiries, please contact: **strata.edition@gmail.com**
+{: .center-text}
 
 <img src="logo.png" alt="Strata Logo" class="centered-logo">
