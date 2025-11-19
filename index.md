@@ -23,13 +23,10 @@ Tying the work together was two miniature rooms: Room One, dark mahogany with an
 The two rooms were performed separately: in March 2025 at Avalon Café and in September 2025 at Spanners within Horsehair, a series curated by Pietro focused on experimental string music.
 
 ## Album Cover
-<br>
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
-<br>
   
 ## Release Format
-Digital + Cassette (*70-copies limited edition brown Cassettes with outer O-Cards*).
-<br>
+Digital + Cassette (*50 limited edition brown Cassettes with outer O-Cards*).
 <img src="PR_CassetteCover.jpg" alt="Cassette Cover" class="centered-image">
 <img src="PR_Cassettes.jpg" alt="Parallel Rooms Cassettes" class="centered-image">
 
@@ -42,9 +39,9 @@ Digital + Cassette (*70-copies limited edition brown Cassettes with outer O-Card
 Composed and Produced: *Pietro Bardini*
 
 Violin: *Angharad Davies*
-Viola:*Charis Morgan / Ariane Alexander*
 Double Bass: *Caius Williams*
 Cello: *Isidora Edwards*
+Viola: *Charis Morgan / Ariane Alexander*
 Piano: *Pietro Bardini*
 
 Additional Arrangments for Room One: *Tim Pottier*
