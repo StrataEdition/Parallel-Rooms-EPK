@@ -23,6 +23,7 @@ Tying the work together was two miniature rooms: Room One, dark mahogany with an
 Room One and Two were performed separately: in March 2025 at Avalon Café and in September 2025 at Spanners within Horsehair, a series curated by Pietro focused on experimental string music.
 
 ## Album Cover
+<br>
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
   
 ## Release Format
