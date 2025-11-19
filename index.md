@@ -9,7 +9,7 @@ layout: home
 Streaming & Download link for *Parallel Rooms* on **STRATA**, for radio / press / personal enjoyment:
 
 [Private Streaming Link (Soundcloud)](https://on.soundcloud.com/hJo3tjbgKlbsYyC57F)
-[Private Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/16noqMvtTAGF2rTSexMFTnEJdmYyMf9vQ?usp=sharing)
+[Private Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/15klp8l0k-TZLjLUShbI602ow3husWpFv?usp=sharing)
 
 ### Release Date: 20.02.26 (TBC)
 
