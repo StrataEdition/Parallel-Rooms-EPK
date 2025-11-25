@@ -6,16 +6,16 @@ layout: home
 
 # Pietro Bardini: Parallel Rooms (DL + Cassette)
 
-Streaming & Download link for *Parallel Rooms* on **STRATA**, for press & personal enjoyment:
+Streaming & Download link for *Parallel Rooms* on **STRATA**, for press, radio & personal enjoyment:
 
 [Private Streaming Link (Soundcloud)](https://on.soundcloud.com/H50E7WqAVwi2LTlcQp)
 [Private Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/15klp8l0k-TZLjLUShbI602ow3husWpFv?usp=sharing)
-
 [High Resolution Cover and Press Images](https://drive.google.com/file/d/1tHBbNjZenbTgDIWCNxlwhs__15LCJywI/view?usp=sharing)
 
-### Release Date: 20.03.26
 ## Catalogue Number
 STR05
+
+### Release Date: 20.03.26
 
 ---
 
