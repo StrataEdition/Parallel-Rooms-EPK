@@ -77,9 +77,6 @@ Pietro Bardini is an Italian, London-based composer and artist. He works across 
 
 <br>
 
-[Social Media Handle (IG)](https://www.instagram.com/pietrobardini/?hl=en)
-{: .center-text}
-
 ---
 
 
