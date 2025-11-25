@@ -79,7 +79,6 @@ Pietro Bardini is an Italian, London-based composer and artist. He works across 
 
 ---
 
-
 For all enquiries, please contact: **strata.edition@gmail.com**
 {: .center-text}
 
