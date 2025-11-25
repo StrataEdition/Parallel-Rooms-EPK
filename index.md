@@ -11,8 +11,11 @@ Streaming & Download link for *Parallel Rooms* on **STRATA**, for press & person
 [Private Streaming Link (Soundcloud)](https://on.soundcloud.com/H50E7WqAVwi2LTlcQp)
 [Private Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/15klp8l0k-TZLjLUShbI602ow3husWpFv?usp=sharing)
 
-### Release Date: 20.02.26 (TBC)
+[High Resolution Cover and Press Images](https://drive.google.com/file/d/1tHBbNjZenbTgDIWCNxlwhs__15LCJywI/view?usp=sharing)
 
+### Release Date: 20.03.26
+## Catalogue Number
+STR05
 ---
 
 ## About
@@ -28,8 +31,7 @@ Room One and Two were performed separately: in March 2025 at Avalon Café and in
 <br>
 <img src="ParallelRooms_webRes.jpg" alt="Parallel Rooms Cover" class="centered-image">
 
-[Full Resolution Cover (PNG)](https://drive.google.com/file/d/1tHBbNjZenbTgDIWCNxlwhs__15LCJywI/view?usp=sharing)
-{: .center-text}
+
 
 ---
 
