@@ -6,7 +6,9 @@ google_analytics: 9660760729
 #- index.md
 #- contact.md
 
-footer: 'Find STRATA on <a href="https://www.instagram.com/strata.edition/"> Instagram </a>'
+footer: 
+'Find Pietro Bardini on <a href="https://www.instagram.com/pietrobardini/"> Instagram </a>'
+'Find STRATA on <a href="https://www.instagram.com/strata.edition/"> Instagram </a>'
 
 style: light
 #listen_for_clients_preferred_style: true # true or false (default)
