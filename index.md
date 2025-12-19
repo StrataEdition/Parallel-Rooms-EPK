@@ -13,9 +13,9 @@ Streaming & Download link for *Parallel Rooms* on **STRATA**, for press, radio &
 [High Resolution Cover and Press Images](https://drive.google.com/drive/folders/1ivVso4xzNYkMibSBkzIoAC6bd3-ZfS_8?usp=sharing)
 
 ## Catalogue Number
-STR05
+STR005
 
-### Release Date: 21.03.26
+### Release Date: 20.03.26
 
 ---
 
@@ -37,7 +37,8 @@ Room One and Two were performed separately: in March 2025 at Avalon Café and in
 ---
 
 ## Release Format
-Digital + Cassette (*50 limited edition brown Cassettes with outer O-Cards*).
+Digital + Cassette (*50 limited-edition transparent brown cassettes, with transparent brown covers and outer graphic O-Cards*).
+<br>
 <img src="Room One.jpg" alt="Room One/Side A and Cover" class="centered-image">
 <img src="Room Two.jpg" alt="Room Two/Side B and Cover" class="centered-image">
 
