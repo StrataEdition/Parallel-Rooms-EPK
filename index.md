@@ -38,8 +38,8 @@ Room One and Two were performed separately: in March 2025 at Avalon Café and in
 
 ## Release Format
 Digital + Cassette (*50 limited edition brown Cassettes with outer O-Cards*).
-<img src="PR_CassetteCover.jpg" alt="Cassette Cover" class="centered-image">
-<img src="PR_Cassettes.jpg" alt="Parallel Rooms Cassettes" class="centered-image">
+<img src="Room One.jpg" alt="Room One/Side A and Cover" class="centered-image">
+<img src="Room Two.jpg" alt="Room Two/Side B and Cover" class="centered-image">
 
 ---
 
