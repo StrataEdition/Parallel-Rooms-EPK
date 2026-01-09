@@ -77,12 +77,11 @@ Pietro Bardini is an Italian, London-based composer and artist. He works across 
 <img src="2_Pietro Bardini_Yvetta Sedláková.jpg" alt="Pietro Bardini Artist Profile" class="centered-image">
 
 <br>
-More information about Pietro's previous works can be found on his website:
-[pietrobardini.com](https://pietrobardini.com)
+More information about Pietro's previous works can be found on [pietrobardini.com](https://pietrobardini.com)
 
 ---
 
+More information about STRATA releases and events can be found at [strataedition.xyz](https://strataedition.xyz)
 For all enquiries, please contact: **strata.edition@gmail.com**
-More information about STRATA releases and events can be found on [our wesbite](https://strataedition.xyz)
 
 <img src="logo.png" alt="Strata Logo" class="centered-logo">
