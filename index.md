@@ -77,7 +77,7 @@ Pietro Bardini is an Italian, London-based composer and artist. He works across 
 <img src="2_Pietro Bardini_Yvetta Sedláková.jpg" alt="Pietro Bardini Artist Profile" class="centered-image">
 
 <br>
-More information about Pietro's previous works can be found on [pietrobardini.com](https://pietrobardini.com)
+More information about Pietro's works can be found at [pietrobardini.com](https://pietrobardini.com)
 
 ---
 
