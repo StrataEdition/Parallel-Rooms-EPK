@@ -84,6 +84,5 @@ More information about Pietro's previous works can be found on his website:
 
 For all enquiries, please contact: **strata.edition@gmail.com**
 More information about STRATA releases and events can be found on [our wesbite](https://strataedition.xyz)
-{: .center-text}
 
 <img src="logo.png" alt="Strata Logo" class="centered-logo">
