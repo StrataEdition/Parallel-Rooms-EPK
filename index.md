@@ -6,15 +6,17 @@ layout: home
 
 # Pietro Bardini: Parallel Rooms (DL + Cassette)
 
-Streaming & Download links for *Parallel Rooms* on **STRATA**, for press, radio & personal enjoyment:
+Streaming & Download links for *Parallel Rooms* on **STRATA**, for press, radio & personal enjoyment.
 
-[Parallel Rooms: Streaming Link (Soundcloud)](https://on.soundcloud.com/H50E7WqAVwi2LTlcQp)
-[Parallel Rooms: Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/15klp8l0k-TZLjLUShbI602ow3husWpFv?usp=sharing)
-[High Resolution Cover and Press Images](https://drive.google.com/drive/folders/1ivVso4xzNYkMibSBkzIoAC6bd3-ZfS_8?usp=sharing)
+Parallel Rooms Streaming & Download links:
+[Streaming Link (Soundcloud)](https://on.soundcloud.com/H50E7WqAVwi2LTlcQp)
+[Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/15klp8l0k-TZLjLUShbI602ow3husWpFv?usp=sharing)
 
-Exctracts Streaming & Download links:
+Extracts Streaming & Download links:
 [Room One, Section VI: Streaming (Soundcloud)](https://on.soundcloud.com/eQAQo9IR0W7old0RIZ)
 [Room One, Section VI: Download (WAV)](https://drive.google.com/drive/folders/1VC4XlvpI9jY1xgCPXA4gmI0_Dj_7ZOb4?usp=drive_link)
+
+[High Resolution Cover and Press Images](https://drive.google.com/drive/folders/1ivVso4xzNYkMibSBkzIoAC6bd3-ZfS_8?usp=sharing)
 
 
 ## Catalogue Number
