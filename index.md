@@ -6,9 +6,7 @@ layout: home
 
 # Pietro Bardini: Parallel Rooms (DL + Cassette)
 
-Streaming & Download links for *Parallel Rooms* on **STRATA**, for press, radio & personal enjoyment.
-
-Parallel Rooms Streaming & Download links:
+Streaming & Download links for *Parallel Rooms* on **STRATA**, for press, radio & personal enjoyment:
 [Streaming Link (Soundcloud)](https://on.soundcloud.com/H50E7WqAVwi2LTlcQp)
 [Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/15klp8l0k-TZLjLUShbI602ow3husWpFv?usp=sharing)
 
