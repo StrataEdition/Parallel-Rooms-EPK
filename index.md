@@ -64,7 +64,7 @@ Cello: **Isidora Edwards**
 Viola: **Charis Morgan / Ariane Alexander**
 Piano: **Pietro Bardini**
 
-Additional Arrangments for Room One: **Tim Pottier**
+Additional Arrangements for Room One: **Tim Pottier**
 
 Additional Mixing: **Sean Woodford**
 Mastering: **Noel Summerville**
